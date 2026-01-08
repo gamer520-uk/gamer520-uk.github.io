@@ -1,0 +1,34 @@
+---
+layout: post
+title: "《武装飞鸟 2 GUNBIRD 2 for Nintendo Switch》Switch金手指下载 – 含1.0.0"
+date: 2026-01-06 10:25
+tags: [switch]
+toc: false
+comments: true
+author: Gamer520
+---
+
+
+《武装飞鸟 2 GUNBIRD 2 for Nintendo Switch》Switch金手指下载 – 含1.0.0，这款游戏游戏体验极佳，上手难度亲民，给您极致的快乐，下面是金手指分享，还有更多内容等你来发现。
+
+武装飞鸟 2 GUNBIRD 2 for Nintendo Switch 1.0.0 金手指
+TID: 0100BCB00AE98000
+BID: ABAC5A08624F0306
+[Restore codes]
+04000000 0004D99C BA000012
+04000000 0004D9A0 E2400001
+04000000 0004BC90 BA000008
+04000000 0004E4C0 E1C600B0
+04000000 0003DA7C BA000002
+04000000 00040258 E5970054
+[Always invulnerable]
+04000000 0004D99C E1A00000
+04000000 0004D9A0 E3A00F41
+04000000 0004BC90 EA000008
+[Infinite bombs]
+04000000 0004E4C0 E1A00000
+[Take items anywhere]
+04000000 0003DA7C EA000020
+[1HitKill]
+04000000 00040258 E3A00000
+
